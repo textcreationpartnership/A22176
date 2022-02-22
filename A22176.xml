@@ -1,0 +1,225 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatyse of the state and disposition of the worlde with the alteracions and chaunginges therof through the great coniunctions of the iii hyest planetes, called Maxima, Maior, Media, and Minor : declaringe the very tyme, the day, houre and minute, that God created the sonne, moone, and sterres, and the places where they were fyrst set in the heauens, and the beginning of their inouynges and so contynued to this day wherby the world hath receyued influe[n]ce as [s]hal be declared by example from the creation unto this present yere, and also to the yeare of our Lorde, M.D.LVIII. to come.</title>
+            <author>Askham, Anthony, fl. 1553.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1550</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22176</idno>
+            <idno type="STC">STC 859.5</idno>
+            <idno type="STC">ESTC S646</idno>
+            <idno type="EEBO-CITATION">22104561</idno>
+            <idno type="OCLC">ocm 22104561</idno>
+            <idno type="VID">25057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22176)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 25057)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1762:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatyse of the state and disposition of the worlde with the alteracions and chaunginges therof through the great coniunctions of the iii hyest planetes, called Maxima, Maior, Media, and Minor : declaringe the very tyme, the day, houre and minute, that God created the sonne, moone, and sterres, and the places where they were fyrst set in the heauens, and the beginning of their inouynges and so contynued to this day wherby the world hath receyued influe[n]ce as [s]hal be declared by example from the creation unto this present yere, and also to the yeare of our Lorde, M.D.LVIII. to come.</title>
+                  <author>Askham, Anthony, fl. 1553.</author>
+               </titleStmt>
+               <extent>[19] p.   </extent>
+               <publicationStmt>
+                  <publisher>Imprynted at London in Fletestrte [sic] at the signe of the George nexte to Saynt Dunstones Churche by Wyliyam Powell,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>M.D.L. [1550] the laste daye of Januarye.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Thus endeth this lytel treatyse compyled by Anthony Askham in the yeare of our Lorde M.D.XLVII."--P. [18].</note>
+                  <note>Imprint taken from colophon.</note>
+                  <note>Signatures: A⁸ B⁴ (last two leaves blank).</note>
+                  <note>Reproduction of original in the University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Astrology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:25057:1" rendition="simple:additions"/>
+            <pb facs="tcp:25057:1"/>
+            <pb facs="tcp:25057:2" rendition="simple:additions"/>
+            <pb facs="tcp:25057:2" rendition="simple:additions"/>
+            <p>A TREA<g ref="char:EOLhyphen"/>tyſe of the ſtate and diſ<g ref="char:EOLhyphen"/>poſition of the worlde, with the al<g ref="char:EOLhyphen"/>teracions and chaunginges therof through the great coniunctions of the .iii. hyeſt planetes, called <hi>Maxi<g ref="char:EOLhyphen"/>ma, Maior, Media,</hi> and <hi>Minor,</hi> decla<g ref="char:EOLunhyphen"/>ringe the very tyme, the day, houre and minute, that God created the Sonne, Moone, and Sterres, and the places where they were fyrſt ſet in the hea<g ref="char:EOLhyphen"/>uens, and the begin<g ref="char:EOLunhyphen"/>ning of their mo<g ref="char:EOLhyphen"/>uynges, and ſo conty<g ref="char:EOLhyphen"/>nued to this day wherby the world hath receyued influe<g ref="char:cmbAbbrStroke">̄</g>ce as ſhalbe declared by example from the creation vn<g ref="char:EOLhyphen"/>to this preſent yere, and alſo to the yeare of our lorde, M.D.LVIII. to come.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:25057:3"/>
+            <pb facs="tcp:25057:3"/>
+            <head>¶ THE GREAT CON<g ref="char:EOLhyphen"/>IVNCIONS OF THE thre hyeſt Planettes, Saturne, Iupiter, and Mars, that are called, Maior, Me<g ref="char:EOLhyphen"/>dia, and Minor.</head>
+            <p>
+               <seg rend="decorInit">A</seg>SPTHOLOME ſayth in centiloqui, verbo. 50. all the mutations, chaunges, and alteracions, that happen in this worlde, amonges the Creatures, are knowen by the hundreth and twentye coniunctions, a<g ref="char:EOLhyphen"/>monges the ſeuen planettes, of the which .vi. are moſt pryncypall.</p>
+            <p>THe fyrſt is betwyxte Saturne and Iu<g ref="char:EOLhyphen"/>piter in the begynnynge of Aries, the whiche is but ones in .ix. hundreth .liii. yeres, and. lxxxxi, dayes, ſo that in eyghte of theſe comunctions remaine ſeuen other yeres from theyr beginnynges, the influence of this coniunctyon cauſeth greate and meruelous chaunges, and notable alteracions, throughe all the clymattes of the worlde, and ſygny<g ref="char:EOLhyphen"/>fyeth newe ſectes, and chaungynge of cu<g ref="char:EOLhyphen"/>ſtomes
+<pb facs="tcp:25057:4"/> lawes, and diſpoſicions amonges the people, and mutacyons of greate Empires, Kyngedomes, and Lordeſhyppes, and alſo great plages, peſtylence, and mortalyte, and of all other vnyuerſall thynges that is nota<g ref="char:EOLhyphen"/>ble throughe the worlde, becauſe of the ſlowe mouynge of them, theyr orbes and cyrcles ar ſo hye and great, for the ſpere of Saturne is from the earthe, ſyxe hundreth thouſande, thouſand, fyue hundreth thouſande, thre hun<g ref="char:EOLunhyphen"/>dreth thouſande, fifty thouſande, ſeuen thou<g ref="char:EOLhyphen"/>ſande, and fyue hundreth myles, and the thick<g ref="char:EOLunhyphen"/>nes of his orbe is within fyue hundreth thou<g ref="char:EOLhyphen"/>ſande thouſande myles, of as muche, and his compaſſe, is nereby thre folde as muche as his heyght, and the verye ſterre of Saturne is .ix. tymes greater then all the earth.</p>
+            <p>¶ The ſeconde coniunction is alſo betwyxt Saturne, and Iupiter, in the begynnynge of euery triplicite, the whiche is but ons in two hundreth .xxxviii. yeres, and two hundrethe and .xv. dayes. Whoſe influence bryngeth in mutacions, and alteracyons of theſe ſectes, diſpoſicions, and notable thinges aboue ſaid, accordynge to the nature of the tryplicites. Alſo Saturne and Iupiter is ioyned .xii. tyme together in euery triplicite, that is to ſaye, in euery twenty yeres, they are ons ioyned in e<g ref="char:EOLhyphen"/>uery ſigne of one tryplicite, whoſe influence makethe alteracyon of theſe thynges afore<g ref="char:EOLhyphen"/>ſayd,
+<pb facs="tcp:25057:4"/> accordynge to the nature of the ſygnes, in whome this coniunction fallethe, for the tyme of .xx. yeres, and then at the entrance in<g ref="char:EOLhyphen"/>to an other triplicite, the influence altereth accordynge to the nature of the triplicite.</p>
+            <p>
+               <g ref="char:leaf">❧</g> And this coniunction of .xx. yeres is the thyrde of the .vi. pryncypall. Alſo Saturne hath in euery triplicite tenne reuolucions by whoſe influence is knowen the remaynynge and chaungynge of theſe ſectes, and dyſpo<g ref="char:EOLhyphen"/>ſicions aforeſayd, accordynge to the entrance of Saturne into the mouable or fyry ſygnes, &amp; alſo according to his nature. Furthermore according to the co<g ref="char:cmbAbbrStroke">̄</g>iunction of Iupiter to the other .vii. planettes, ſo altereth and changeth the ſectes, cuſtomes, and lawes, that are fyrſt brought in by the great co<g ref="char:cmbAbbrStroke">̄</g>iunctions, as when he is ioyned with Saturne, he bringeth in the Iewyſhe lawe, and cauſethe mankynde to be ſtyfe, and ſtubbourne, agaynſt the true lawe, of Chryſt: with Mars the Caldes lawe, that worſhypped the fyre, and other falſe y<g ref="char:EOLhyphen"/>mages, with the Sonne, the Egyptians law that worſhypped the Sonne, Moone, and Sterres, euen as all thynges hadde bene de<g ref="char:EOLhyphen"/>ſtened to come by them of neceſſyte, with Venus, the Saracens lawe, the whiche was al together lecherie, regarding neither order, nor lawe, but all in common, and oftymes, agaynſt kinde, with Mercury, the Chriſtians
+<pb facs="tcp:25057:5"/> lawe, and al other lerning, perteyning to the knowledge of God, and his workes, with the Moone, the inconſtancy of al lawes, and con<g ref="char:EOLunhyphen"/>trary diſputacio<g ref="char:cmbAbbrStroke">̄</g>s of theſe aforſaid, according to other planetes that the Mone hath aſpecte vnto: and thus as Iupiter betokeneth lawes, Mars doth ſygnifie batels, the Sonne peace and concorde: Mercury lerning and knowe<g ref="char:EOLhyphen"/>ledge, &amp; after theyr co<g ref="char:cmbAbbrStroke">̄</g>iunctions, thus conſider their influences as ſaith Albumaſar .li. de ma<g ref="char:EOLunhyphen"/>gis coniunctionibus, tract .ii. differetur octa.</p>
+            <p>¶ The .iiii. coniunction is betwixe Saturne and Mars in the beginninge of Cancer, the which is but ons in .xxx. yeres, whoſe influe<g ref="char:cmbAbbrStroke">̄</g>ce bringeth in warres, debates, and battels, and much contrariouſnes, for theſe thinges afore<g ref="char:EOLhyphen"/>ſaid. Alſo a coniunction betwyxte Iupiter and Mars ſignifieth tempeſtes of weather, with rayne, and ſnowe, and corruption of the ayre, and alſo ſtryfe, debate, and batell.</p>
+            <p>
+               <g ref="char:leaf">❧</g> The fyfth coniunction is betwyxte the Sonne and Moone at the entraunce of the Sonne into Aries of whoſe influence com<g ref="char:EOLhyphen"/>meth yerely diſpoſitions.</p>
+            <p>¶ The .vi. is of the Sonne and Moone in euery moueth, of whoſe influence commeth monethly and wekely, diſpoſitions. Alſo the Moone is ioyned withal the planetes ons in a moneth, wherof cometh dayly inclinatio<g ref="char:cmbAbbrStroke">̄</g>s, ſo that al moſt fro<g ref="char:cmbAbbrStroke">̄</g> a, M. yeres to euery daye, the
+<pb facs="tcp:25057:5"/> alteratio<g ref="char:cmbAbbrStroke">̄</g> and diſpoſition of al creatures may be knowne by theſe .C. and .xx. coniunctions aforeſaide, alſo to haue the true computation and calculacion of the beginning of theſe co<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>iunctions ye muſt conſidre, that in their reuo<g ref="char:EOLhyphen"/>lutio<g ref="char:cmbAbbrStroke">̄</g>s they come not to the ſame poynt where they began correſpondinge the zodiake of the viii. ſpere by, iii. minutes in one yere. Whoſe hole courſe is .vii. M. yeres, wherin is contey<g ref="char:EOLhyphen"/>ned nereby .viii. great coniunctions betwyxte Saturne &amp; Iupiter in the beginning of Aries</p>
+            <p>¶ Alſo the zodiake of the. ir. ſpere changeth and altereth the begynnynge of theſe<g ref="char:punc">▪</g> greate coniunctions xxvi. ſeco<g ref="char:cmbAbbrStroke">̄</g>des in one yere, whoſe hole courſe is xlir. thouſande yeres, wherein is conteyned .lii. coniunctions, betwixte Sa<g ref="char:EOLhyphen"/>turne and Iupiter in the beginninge of Aries.</p>
+            <p>¶ Alſo ye muſt conſider the ſpace of the daye that the Sonne dyd ſtande ſtyll, and not re<g ref="char:EOLhyphen"/>moue in the time of Ioſue, &amp; alſo the .x. houres in the tyme of Ezechie, the which dothe alter the beginninges of theſe great co<g ref="char:cmbAbbrStroke">̄</g>iunctions, ſo that the ꝑfyt calculacion knowne, their mer<g ref="char:EOLhyphen"/>uelous influence ſhal ſurely be prognoſticated</p>
+            <p>¶ Furthermore knowe ye that the .x. ſpere goeth round about in. xriiii. houres &amp; draweth al the other ſperes &amp; planetes with hi<g ref="char:cmbAbbrStroke">̄</g>, ſo that al the worlde hath therby influence, &amp; inclina<g ref="char:EOLunhyphen"/>tion, euery houre, and minute, ſo that frome euerye houre of the daye, tyl .xlix. M. yeres, ye
+<pb facs="tcp:25057:6"/> may conſydre the influences and inclinations of the ſterres and planettes, after the ſcience of Aſtronomye.</p>
+            <div type="part">
+               <head>❀ Howe many great coniunctions hath ben betwyxte Saturne, and Iupiter, in the begynnynge of Aries, ſence the creacyon of the worlde, vntyll this preſent yere, and of theyr ſygmfycations.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">F</seg>ROM</hi> the creacyon of the worlde to the byrthe of Chryſt is dyuerſe opy<g ref="char:EOLhyphen"/>nions of yeres, both of the Hebrewes, and Latyus, whoſe difference is within xxir. or xxx. yeres the which is about .v. thouſand .iii. hundreth .xliii. yeres: ſo that from the Creacyon of the worlde to this preſente yere, is. vi, thouſande .viii. hun<g ref="char:EOLhyphen"/>dreth .lxxxx. yeres, in the which tyme hath ben vii. great coniunctions betwyxte Saturne and Iupiter in the begynnyng of Aries .iii. be<g ref="char:EOLhyphen"/>fore Noyes flodde, and .iiii. after, and for to knowe the true tymes of theſe coniunctions, ye ſhal vnderſtande that the Sonne, Moone, and Sterres, was create the .iiii. daye of the worlde, beinge the tyme of <hi>VER</hi> in the mo<g ref="char:EOLhyphen"/>neth
+<pb facs="tcp:25057:6"/> of Marche, in the vernall poynt of the equinoctiall, the Sonne, and Moone, beyng vnder Aries, in the myddes of heauen, alſo al the planettes was ſette in theyr owne proper houſes, in the degrees of theyr exaltacions, and dygnites, alſo after ſome opinions Sa<g ref="char:EOLhyphen"/>turne, Iupiter, Mars, and the Sonne was ſet in the .iiii. angles, Iupiter in the aſcendent in the .xv. degre of Cancer, the Sonne in the myddes of heauen in the .xix. degre of Aries, and alſo the Moone, was aboute the fyrſte quarter, begynnyng her courſe from the Bul, goynge by the heade of the Dragon, and ſo commynge to a coniunction with Mercurye, the whiche was the fyrſt coniunction of the worlde, and thus paſſyng by all the planettes tyl ſhe was ioyned with the Sonne, the. xxvii day after their creacion, the which by putting to the thre fyrſte dayes before theyr creacion, maketh a perfyt lunacion of .xxx. dayes. Alſo the planettes kepyng theyr courſſes from the places of theyr creacion, Saturne and Iupi<g ref="char:EOLhyphen"/>ter was ioyned together about .xv. yeres af<g ref="char:EOLhyphen"/>ter, in a earthlye triplicite, in the ſigne of the Bull, at the whiche tyme Cayme was borne the fyrſt murderer, that afterwarde ſlewe his brother Abell, with other greate alteracions, that befel in the world, at that tyme, by Cai<g ref="char:EOLhyphen"/>mes generacyon. Alſo at a hundreth, and .xv. yeres, and .xli. daies, was an other coniuncion
+<pb facs="tcp:25057:7"/> in the .xxii. minute of Libra in an eayry tri<g ref="char:EOLhyphen"/>plicite, in the whiche tyme was borne Seth, the ſon of Adam and his generacio<g ref="char:cmbAbbrStroke">̄</g>, of whom was an alteracion and contrarye diſpoſition to the generation of Cayme. Alſo at .iii. hun<g ref="char:EOLhyphen"/>dreth .liii. yeres, and an hundreth and .lv. daies was another coniunction betwyxte Saturne and Iupiter, in a warry triplicite, in the .vii. degree of Scorpion, about the which tyme, the generacion of Cayme, beganne to bylde Cytyes, and Townes, for the ſafegarde and defence of theyr ſpoyles and tyrannye.</p>
+               <div n="1" type="conjunction">
+                  <head>
+                     <g ref="char:leaf">❧</g> Of the fyrſt great coniunction betwyxte Saturne and Iupiter, in the begynnynge of Aries, in a fy<g ref="char:EOLhyphen"/>rye triplicite.</head>
+                  <p>THE fyrſte great coniunction was in the yeare fyue hundrethe .xxxviii. after the creacion, the whiche dyd ſygnyfye the holyneſſe of Enos, of the generacyon of Seth, and of his good lyuynge towarde GOD. Alſo in the fyue hundreth .lxxxxi. was an other coniunction in the fyrye tripli<g ref="char:EOLhyphen"/>cite, in the .xii. degre of Sagittary, the whi<g ref="char:EOLhyphen"/>che dyd contynewe tyll the holynes of Seths generacyon by Malaleell, Iareth, Euoche, and Mathuſale. &amp;c.</p>
+               </div>
+               <div n="2" type="conjunction">
+                  <pb facs="tcp:25057:7"/>
+                  <head>¶ Of the .ii. great coniunction.</head>
+                  <p>THE .ii. great coniunction was in the yere of the worlde a thouſand .iiii. hun<g ref="char:EOLhyphen"/>dreth .lxxxxviii. the whiche did ſignifie the generacion of Lameth, that ſlewe Caym by whoſe children was firſt found al craftes, and ſcie<g ref="char:cmbAbbrStroke">̄</g>ces liberal, with many other vnnatu<g ref="char:EOLhyphen"/>ral vſages, firſt inuented by their generacion</p>
+                  <p>¶ Alſo in the yere of .ii. M. and .xxi. was a middel coniunction betwixte Saturne &amp; Iu<g ref="char:EOLhyphen"/>piter in a watry triplicite in the .xiiii. degre of Cancer, the which did naturally ſignify ſome great and wonderous alteracion by water, as apered by Noyes flud, that was ſent miracu<g ref="char:EOLhyphen"/>louſlye to punyſhe, and dyſtroy the lecherous, and myſcheuous people for theyr ſynne.</p>
+               </div>
+               <div n="3" type="conjunction">
+                  <head>¶ Of the thyrde great coniunction.</head>
+                  <p>THe .iii. coniunction, was in the yere .ii. thouſande .iiii. hundreth .lviii. and .xxii. yeres, after Noys flod, about this tyme reigned the generacion of Noy, Cem, Cham and Iaphet, the which deuided the worlde, in thre paxtes, in Europe, Affryke, and Aſia, and of them came .ii. thouſande. and .iiii. C. per<g ref="char:EOLhyphen"/>ſons, beſides women and children. Alſo in the yere .ii. M .iiii. hundreth .lxxxxviii. was a mid<g ref="char:EOLhyphen"/>dell coniunction betwyxte Saturne and Iu<g ref="char:EOLhyphen"/>piter, in a carthy triplicite, in the eyghtene
+<pb facs="tcp:25057:8"/> degre of Virgo, the whiche dyd ſygnifye the tyme of Nemroth, the fyrſt begynnyng of all couetouſnes, with the byldynge of the towre of Babylon, where the deuyſion of langua<g ref="char:EOLhyphen"/>ges was fyrſt made. And afterwarde ſucce<g ref="char:EOLhyphen"/>ded the Idolatry of Belus, the which began the fyrſt worſhyppinge of falſe ymages. Alſo in the .iii. thouſande and two hundreth yeres, was a coniunctyon called Maior, betwyxte Saturne, and Iupiter, at the entraunce into a ayry triplicite, in the ſygne of Aquary, by the whiche was ſygnyfyed great and merue<g ref="char:EOLhyphen"/>lous ſygnificacions, as the byrth of Abraham and his generacio<g ref="char:cmbAbbrStroke">̄</g>, with the promeſſes of god made to Abraham. &amp;c.</p>
+               </div>
+               <div n="4" type="conjunction">
+                  <head>¶ Of the fourth great coniunction.</head>
+                  <p>THe fourth greate coniunction was in the yere .iii. thouſande foure hundreth and xviii. the whiche dyd ſygnyfye the tyme of Sirapis or Apis, with the blynde y<g ref="char:EOLhyphen"/>dolaterye of the Gentyls, and many other al<g ref="char:EOLunhyphen"/>teracions, as the ſtorye telleth, alſo in the .iii. thouſande and .vi. hundreth yeres after, was a myddle coniunction in a watrye tryplicite, that dyd ſygnifie the byrthe of Moyſes, with all his holynes and workes. &amp;c.</p>
+               </div>
+               <div n="5" type="conjunction">
+                  <head>¶ Of the .v. great coniunction.</head>
+                  <pb facs="tcp:25057:8"/>
+                  <p>THe fyfth coniunction was in the yere .iiii. thouſande thre hundreth. 78. the whiche dyd ſignifie the deuiſion of the kyngdome of the Hebrues, and the captyuite of the Iues, and the alteracions of the kyng<g ref="char:EOLhyphen"/>dome of Rome. &amp;c.</p>
+               </div>
+               <div n="6" type="conjunction">
+                  <head>¶ Of the .vi. great coniunction.</head>
+                  <p>THe .vi. coniunction was in the yere .v. thouſand .iii. hundreth .xxxviii. and but v. yeres before the byrth of Chryſt, at the whiche tyme was ryght great alteracyon, for al mankynde was redemed fro<g ref="char:cmbAbbrStroke">̄</g> the bonde of the deuyl, and made the chyldren of god. &amp;c</p>
+               </div>
+               <div n="7" type="conjunction">
+                  <head>
+                     <g ref="char:leaf">❧</g> Of the .vii. great coniunction, for the whiche I haue ſpecyally wrytten thys treatyſe aforeſayde, becauſe it began .vi. C. yeres before our tyme, and co<g ref="char:cmbAbbrStroke">̄</g>tynueth nere<g ref="char:EOLhyphen"/>by .iiii. hundreth yeres after, of the which iiii, hondreth yeres .xii. of them ſhal<g ref="char:EOLhyphen"/>be prognoſticated accordynge to the coniunctions, Maxi<g ref="char:EOLhyphen"/>ma, Maior, Media, and Minor.</head>
+                  <p>THe .vii. coniunction, was in the yeare .vi. M .ii. C, lxxxxiii. and in the yere of our Lorde, nyne C .lv. and before this tyme about .iii. C. yeres, at the ende of .x. re<g ref="char:EOLhyphen"/>uolutio<g ref="char:cmbAbbrStroke">̄</g>s of Saturne, was the tyme of Ma<g ref="char:EOLhyphen"/>chomet, whoſe meruelous ſecte is knowne
+<pb facs="tcp:25057:9"/> well ynoughe, and by other .x. reuolutions of Saturne, from the tyme of Machomet vnto this our preſent tyme is alſo knowne, the dy<g ref="char:EOLhyphen"/>uerſitie &amp; manyfolde alteracions of this ſecte as the heriſes of Arians Pagauns, and falſe chriſten men. Alſo about this aforeſaid greate coniunction began the ſciſmes &amp; diſſencyon amonges the Biſhops of Rome, &amp; great bat<g ref="char:EOLhyphen"/>tel for ſetting vp of ymages with great peſti<g ref="char:EOLhyphen"/>lence &amp; deth in the time of the Emperour Leo with other, much diſce<g ref="char:cmbAbbrStroke">̄</g>cion bewixte the En<g ref="char:EOLhyphen"/>gliſhe men &amp; the Danes in the tyme of kinge Adelſton, Edmonde, Eldred, and Edwyn. Alſo in the yere of our Lorde a. M. and. xxxii was a middle coniunction in the ſigne of Vir<g ref="char:EOLunhyphen"/>go: and was changed from a fyry triplicite in to an earthly triplicite, about the which tyme was Pope Sylueſter, and kynge Knaght of Englande, with ſuch alteracions and warres as was about that tyme.</p>
+                  <p>¶ Alſo after other .x. reuolucyons of Sa<g ref="char:EOLhyphen"/>turne in the yere of our Lorde a. M. a C. and lvi. was an other coniunction in a earthly tri<g ref="char:EOLunhyphen"/>plicite in the. 27. degre of Capricorne, about the which tyme began the two orders of beg<g ref="char:EOLunhyphen"/>ging freers, the one of S. Dominic, &amp; the o<g ref="char:EOLhyphen"/>ther of S. Fraunces, &amp; Adrian was Byſhop of Rome, and Richarde kyng of Englande, with many alteracions both by wars, famine and deth, that happened about that tyme.</p>
+                  <pb facs="tcp:25057:9"/>
+                  <p>¶ Alſo in the yere of our Lorde a M .ii. C. and .xxv. was a co<g ref="char:cmbAbbrStroke">̄</g>iunction betwyxe Saturne and Iupiter, by the chaungynge of the tripli<g ref="char:EOLhyphen"/>cite into the .xx. degre of Aquary, as ſaith Hen<g ref="char:EOLunhyphen"/>ricus de Machlimia, the whiche was aboute kynge Iohns tyme of Englande, and Frede<g ref="char:EOLhyphen"/>ricke the ſeconde Emperoure.</p>
+                  <p>¶ Alſo in the yere of our Lorde a. M .iii. C. and .xlv. the .xxiiii. day of Marche about the xir. degre of Aquary, was a great coniuncti<g ref="char:EOLhyphen"/>on both of Saturne, Iupiter and Mars, and both before and after that coniunction was a Minor coniunction of Saturne &amp; Mars, the firſt was in the yere a M .iii. C .lvii. the .ii. in the yere a M .iii. C .xxvii. after the which co<g ref="char:cmbAbbrStroke">̄</g>
+                     <g ref="char:EOLunhyphen"/>iunction dyd folowe meruelous alteracio<g ref="char:cmbAbbrStroke">̄</g>s, as gret drought, and lacke of water, with much penury &amp; ſcarſnes, of ſuſtenance both for ma<g ref="char:cmbAbbrStroke">̄</g> and beaſt, and alſo peſtilence w<hi rend="sup">t</hi> great death.</p>
+                  <p>
+                     <g ref="char:leaf">❧</g> Alſo in the yere a thouſande foure hun<g ref="char:EOLhyphen"/>dreth and .iiii. was a coniunction in a watrye triplicite in the .xx. degre of Piſces, about this tyme was the ſciſme and dyſſencion betwixte the thre Byſhoppes of Rome, Innocencius, Gregorius, and Alexander, and the tyme of Henry Bolynbroke kynge of Englande, and ſhortlye after that tyme, was a great froſte in Englande, that laſted fyftene wekes longe.</p>
+                  <p>
+                     <g ref="char:leaf">❧</g> Alſo in the yere a. M .iiii. C .lxxxix. the x. reuolucions of Saturne was fully ended,
+<pb facs="tcp:25057:10" rendition="simple:additions"/> the whiche was about .xlviii. yeres ſence, ſo that the ſayd Saturne hath made but one re<g ref="char:EOLhyphen"/>uolucion and a halfe, vntyll this preſent yere, in the whiche tyme hath ben no ſmall altera<g ref="char:EOLhyphen"/>cion and chaungyng, yf ye marke it wel. Alſo in the yere a thouſande. v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> hundreth and .xxx. Saturne beganne his reuolucion againe, de<g ref="char:EOLhyphen"/>partynge from the coniunction of Iupiter in Cancer, the which reuolucion ſhal contynew to the yere a. M .v. hundreth and .lx. the which is about .xiii. yeres after this our preſe<g ref="char:cmbAbbrStroke">̄</g>t yere.</p>
+                  <p>Furthermore, ye ſhal know, that in the reuo<g ref="char:EOLhyphen"/>lution fygure for the yere, in the begynnynge of Saturnes reuolucyon, Iupiter was ſet in a moueable ſygne in the houſe of religion be<g ref="char:EOLhyphen"/>ynge retrograde, the which doth ſignifie vn<g ref="char:EOLhyphen"/>ſtedfaſtnes of lawes, faith, and cuſtomes, for the tyme of this Saturmens reuolution, by<g ref="char:EOLhyphen"/>cauſe that Iupiter is not ſtrong in the fygure and alſo lodged in an vnſtedfaſt place. Fur<g ref="char:EOLhyphen"/>thermore ye ſhall knowe, that in the tyme of this reuolution, the wether ſhal ſtande chiefe<g ref="char:EOLhyphen"/>lye with moyſtnes, and by watry more then with drought, and the earth ſhall brynge forth all growynge thynge ryghte well, and many colde ſyckenes of flume ſhall reygne, as drop<g ref="char:EOLhyphen"/>ſes, goutes, poſes, and ſuche lyke. Alſo no great vnyuerſal warres are lyke to reygne in this reuolucion, but accordynge to the appli<g ref="char:EOLhyphen"/>cation of Mars to the other planettes, as
+<pb facs="tcp:25057:10"/> chyefelye, when he is ioyned with Saturne, he cauſeth the people, and ſpecially the Sa<g ref="char:EOLhyphen"/>turniens, and thoſe that be vnder Mars, to be of preuey ſectes and councels in hye mat<g ref="char:EOLhyphen"/>ters of the faith, lawes, and religion, and alſo to moue warre and battell in ſuche cauſes. And thus conſyder of all the other planettes as he ioyneth with them. Alſo yf ye maruell why in this reuolucion of Saturne, the tyme ſhall ſtande moſt with varyacion, alteracyon of faith, lawes, religion, and cuſtomes, know that in the fygures of the yeare, at the begyn<g ref="char:EOLhyphen"/>nynge of Saturnes reuolucion, the lorde of that yere dyd commytte his power and dyſ<g ref="char:EOLhyphen"/>poſycyon to Iupiter, the ſygnyfycatoure of faythe, and lawes, and by his retrograda<g ref="char:EOLhyphen"/>cyon is ſygnyfyed the wekeneſſe and incon<g ref="char:EOLhyphen"/>ſtantnes of the aforeſayde fayth, and lawes, and bycauſe the Lorde Iupiter beynge in the houſe of relygion, and in a moueable ſygne, it is ſygnyfyed thereby, the mutacyon and great alteracyon thereof, and chyefelye a<g ref="char:EOLhyphen"/>monges the relygyon profeſſours, and tea<g ref="char:EOLhyphen"/>chers of the ſame, ſo that the perfecte ſtabliſ<g ref="char:EOLhyphen"/>ment and ſeaſynge of this varyacyon, is not lyke to be fullye ended in all peoples hertes, vnto the ende and terme of this ſayde reuo<g ref="char:EOLhyphen"/>lucyon of Saturne.</p>
+                  <p>And thus fynallye, all theſe greate coniuncti<g ref="char:EOLhyphen"/>ons conſidered, and theſe. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. reuolucyons of
+<pb facs="tcp:25057:11"/> Saturne, with the fygures and places of the planettes, at the begynuynge it may well be prognoſtycated of the dyſpoſycion al<g ref="char:EOLhyphen"/>teracyon, and chaungynge of the people, euen frome the Crea<g ref="char:EOLhyphen"/>cyon vntyll .xlix. thouſande yere be ended; the whiche is the courſe of the. ir. ſpere (if it pleaſe god to ſuffer the worlde ſo longe.)</p>
+                  <p>To whom praye we daylye to ſende vs grace and good dyſpoſycyon, that throughe wyſdome, we may rule with the Sterres as ſaythe Ptholome, the prince of A<g ref="char:EOLhyphen"/>ſtronomyes.</p>
+               </div>
+            </div>
+            <trailer>
+               <g ref="char:leaf">❧</g> FINIS.</trailer>
+            <trailer>¶ Thus endeth this lytel trea<g ref="char:EOLhyphen"/>tyſe compyled by Anthony Aſkham In the yeare of our Lorde. M. D .XLVII.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <pb facs="tcp:25057:11"/>
+            <p>
+               <g ref="char:leaf">❧</g> IMPRYNTED AT LONDON IN FLETE<g ref="char:EOLhyphen"/>ſtrte at the ſigne of the George nexte to Saynt Dunſtones Churche by Wyliy<g ref="char:EOLhyphen"/>am Powell.</p>
+            <p>In the yeare of our Lorde M. D .L. the laſte daye of Ianu<g ref="char:EOLhyphen"/>arye.</p>
+            <pb facs="tcp:25057:12" rendition="simple:additions"/>
+            <pb facs="tcp:25057:12"/>
+            <pb facs="tcp:25057:13"/>
+            <pb facs="tcp:25057:13"/>
+         </div>
+      </back>
+   </text>
+</TEI>
